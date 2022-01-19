@@ -1,0 +1,1 @@
+The purpose of this project is to create a website that has the recipes to a few of my favorite foods. It also serves to showcase my skills in setting up a website using html, creating relative and absolute links, using images, and using text elements. 
